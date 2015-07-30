@@ -1,5 +1,5 @@
 {
-  "name": "random-id",
+  "name": "idy",
   "version": "1.0.0",
   "description": "Generate random and potentially unique ids.",
   "main": "lib/index.js",
@@ -13,7 +13,7 @@
   "license": "KINDLY",
   "repository": {
     "type": "git",
-    "url": "https://github.com/IonicaBizau/node-random-id.git"
+    "url": "https://github.com/IonicaBizau/node-idy.git"
   },
   "keywords": [
     "random",
@@ -22,10 +22,10 @@
     "generator"
   ],
   "bugs": {
-    "url": "https://github.com/IonicaBizau/node-random-id/issues"
+    "url": "https://github.com/IonicaBizau/node-idy/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-random-id",
+  "homepage": "https://github.com/IonicaBizau/node-idy",
   "blah": {
-      "h_img": "http://i.imgur.com/JcuMY0H.png"
+      "h_img": "http://i.imgur.com/tVtnd3Y.png"
   }
 }

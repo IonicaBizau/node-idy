@@ -13,35 +13,35 @@
 <!-- * * * Thanks! * * *                                                    -->
 <!---------------------------------------------------------------------------->
 
-![random-id](http://i.imgur.com/JcuMY0H.png)
+![idy](http://i.imgur.com/tVtnd3Y.png)
 
-# random-id [![Donate now][donate-now]][paypal-donations]
+# idy [![Donate now][donate-now]][paypal-donations]
 
 Generate random and potentially unique ids.
 
 ## Installation
 
 ```sh
-$ npm i random-id
+$ npm i idy
 ```
 
 ## Example
 
 ```js
 // Dependencies
-var Id = require("random-id");
+var Idy = require("idy");
 
-console.log(Id());
+console.log(Idy());
 // => k5goo82pv0
 
-console.log(Id(20));
+console.log(Idy(20));
 // => gfmruywoe3uie3680l54
 
 ```
 
 ## Documentation
 
-### `RandomId(length)`
+### `Idy(length)`
 Generates a random id and potentially unique.
 
 #### Params

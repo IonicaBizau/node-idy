@@ -1,8 +1,8 @@
 // Dependencies
-var Id = require("../lib");
+var Idy = require("../lib");
 
-console.log(Id());
+console.log(Idy());
 // => k5goo82pv0
 
-console.log(Id(20));
+console.log(Idy(20));
 // => gfmruywoe3uie3680l54
