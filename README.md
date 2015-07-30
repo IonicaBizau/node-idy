@@ -13,6 +13,8 @@
 <!-- * * * Thanks! * * *                                                    -->
 <!---------------------------------------------------------------------------->
 
+![random-id](http://i.imgur.com/JcuMY0H.png)
+
 # random-id [![Donate now][donate-now]][paypal-donations]
 
 Generate random and potentially unique ids.

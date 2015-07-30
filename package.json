@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-random-id/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-random-id"
+  "homepage": "https://github.com/IonicaBizau/node-random-id",
+  "blah": {
+      "h_img": "http://i.imgur.com/JcuMY0H.png"
+  }
 }
