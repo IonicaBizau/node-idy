@@ -9,6 +9,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IonicaBizau/node-random-id.git"
+  },
+  "keywords": [
+    "random",
+    "unique",
+    "id",
+    "generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/node-random-id/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/node-random-id"
 }
