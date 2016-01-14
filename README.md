@@ -1,8 +1,8 @@
 [![idy](http://i.imgur.com/tVtnd3Y.png)](#)
 
-# idy [![Support this project][donate-now]][paypal-donations]
+# idy [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/idy.svg)](https://www.npmjs.com/package/idy) [![Downloads](https://img.shields.io/npm/dt/idy.svg)](https://www.npmjs.com/package/idy) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-Generate random and potentially unique ids.
+> Generate random and potentially unique ids.
 
 ## Installation
 
