@@ -1,16 +1,20 @@
+
 [![idy](http://i.imgur.com/tVtnd3Y.png)](#)
 
 # idy [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/idy.svg)](https://www.npmjs.com/package/idy) [![Downloads](https://img.shields.io/npm/dt/idy.svg)](https://www.npmjs.com/package/idy) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Generate random and potentially unique ids.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save idy
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 // Dependencies
@@ -23,7 +27,8 @@ console.log(Idy(20));
 // => gfmruywoe3uie3680l54
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `Idy(length)`
 Generates a random id and potentially unique.
@@ -34,17 +39,20 @@ Generates a random id and potentially unique.
 #### Return
 - **String** The generated id.
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`engine-parser`](https://github.com/IonicaBizau/engine-parser) by jillix
 
- - [`svg.connectable.js`](https://github.com/jillix/svg.connectable.js) by jillix
+ - [`engine-builder`](https://github.com/IonicaBizau/engine-parser) (by jillix)—Engine composition parser.
+ - [`engine-parser`](https://github.com/IonicaBizau/engine-parser) (by jillix)—Engine composition parser.
+ - [`svg.connectable.js`](https://github.com/jillix/svg.connectable.js) (by jillix)—A JavaScript library for connecting SVG things.
 
-## License
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
