@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Generates a random id and potentially unique.
 
 #### Params
+
 - **Number** `length`: The id length (default: 10).
 
 #### Return
