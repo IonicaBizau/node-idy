@@ -114,6 +114,7 @@ There are few ways to get help:
 
 
 ### `Idy(length)`
+idy
 Generates a random id and potentially unique.
 
 #### Params
@@ -178,13 +179,13 @@ If you are using this library in one of your projects, add it in this list. :spa
 
  - `ajs`
  - `rucksack`
+ - `mini-lightbox`
  - `svg.connectable.js`
  - `engine-parser`
  - `engine-builder`
- - `mini-lightbox`
- - `bloggify-user-auth`
- - `cli-github`
  - `idy-cli`
+ - `cli-github`
+ - `bloggify-user-auth`
 
 
 

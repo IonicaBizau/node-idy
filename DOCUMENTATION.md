@@ -3,6 +3,7 @@
 You can see below the API reference of this module.
 
 ### `Idy(length)`
+idy
 Generates a random id and potentially unique.
 
 #### Params
