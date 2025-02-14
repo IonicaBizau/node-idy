@@ -1,6 +1,6 @@
 {
   "name": "idy",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Generate random and potentially unique ids.",
   "main": "lib/index.js",
   "directories": {
@@ -40,6 +40,7 @@
     "cli.js",
     "index.js",
     "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
